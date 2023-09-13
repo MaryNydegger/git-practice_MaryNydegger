@@ -1,0 +1,9 @@
+  480  git remote add origin git@github.com:MaryNydegger/git-practice_MaryNydegger.git
+  481  git push -u origin main
+  482  git clone git@github.com:MaryNydegger/justinpferdner.git
+  485  git checkout -b feature-marynyde
+  486  git add .
+  487  git commit -m "adding"
+  488  git push origin feature-marynyde
+  489  rm -rd Documents/FALL2023/STAT386/git_practice/justinpferdner
+  494  git log --oneline >gitlog.txt

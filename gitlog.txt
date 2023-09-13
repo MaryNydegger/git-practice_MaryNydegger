@@ -1,0 +1,12 @@
+2ad44c3 Merging again
+cecac26 Update new_features.txt on features branch
+0a61fe1 Merging
+61bdabb Add another line of text to file_1.txt
+80590d9 Add new features content
+c76cae6 Add empty file
+c0b0266 Add .gitignore file to ignore api-keys.txt
+89f0baf Add Readme.md with repository description.
+1efeaf3 Committing changes from file_2.txt
+b99c507 Committing changes from file_1.txt
+2edc5d6 Edit text files
+a0661d3 create file_1.txt
