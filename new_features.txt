@@ -1,2 +1,1 @@
-This file will have some new features
-
+This file has some new text.
